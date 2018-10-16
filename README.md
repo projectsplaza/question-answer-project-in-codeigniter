@@ -4,5 +4,11 @@ Hello World, This is question answer project built with Codeigniter, MySQLi and 
 - Home Page
 ![Home Page](https://github.com/projectsplaza/question-answer-project-in-codeignityer/blob/master/home.png)
 
+- Post Question Page
+![Home Page](https://github.com/projectsplaza/question-answer-project-in-codeignityer/blob/master/post-question-page.png)
+
+- Question Detail Page
+![Home Page](https://github.com/projectsplaza/question-answer-project-in-codeignityer/blob/master/question-detail-page.png)
+
 # Download the full project from this link
 http://projectsplaza.com/product/question-answer-project-in-codeigniter/
